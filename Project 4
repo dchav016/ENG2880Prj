@@ -5,6 +5,6 @@ int main ()
         //char test;
         //scanf("%c", test);
         //printf("The char is   %c \n", test);
-        printf("Hello World");
+        printf("Hello World \n");
 }
 
